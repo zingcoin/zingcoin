@@ -1,0 +1,47 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zingcoin version v0.9.0.0-beta ()
+Using OpenSSL version OpenSSL 1.0.1g 7 Apr 2014
+Startup time: 2014-06-15 16:37:18
+Default data directory C:\Users\user\AppData\Roaming\Zingcoin
+Using data directory C:\Users\user\AppData\Roaming\Zingcoin
+Using at most 125 connections (2048 file descriptors available)
+Using 4 threads for script verification
+init message: Verifying wallet...
+dbenv.open LogDir=C:\Users\user\AppData\Roaming\Zingcoin\database ErrorFile=C:\Users\user\AppData\Roaming\Zingcoin\db.log
+Bound to [::]:11796
+Bound to 0.0.0.0:11796
+init message: Loading block index...
+Opening LevelDB in C:\Users\user\AppData\Roaming\Zingcoin\blocks\index
+Opened LevelDB successfully
+Opening LevelDB in C:\Users\user\AppData\Roaming\Zingcoin\chainstate
+Opened LevelDB successfully
+LoadBlockIndexDB(): last block file = 0
+LoadBlockIndexDB(): transaction index disabled
+Initializing databases...
+00000bc03a62060822e0e7612d26302881796b4484290a55ff3e09df5dcfb889
+0000000000000000000000000000000000000000000000000000000000000000
+834e9205a1ee64d7cb8cb689b304a8aedaf5ca34ad85ac704fd617df2418ac5b
+CBlock(hash=00000bc03a62060822e0e7612d26302881796b4484290a55ff3e09df5dcfb889, ver=112, hashPrevBlock=0000000000000000000000000000000000000000000000000000000000000000, hashMerkleRoot=834e9205a1ee64d7cb8cb689b304a8aedaf5ca34ad85ac704fd617df2418ac5b, nTime=1402346500, nBits=1e0fffff, nNonce=48057, vtx=1)
+  CTransaction(hash=834e9205a1ee64d7cb8cb689b304a8aedaf5ca34ad85ac704fd617df2418ac5b, ver=1, vin.size=1, vout.size=1, nLockTime=0, strTxComment=)
+    CTxIn(COutPoint(0000000000000000000000000000000000000000000000000000000000000000, 4294967295), coinbase 04ffff001d0104285a696e6720666f7220796f752c205a696e6720666f72206d652c205a696e6720666f7220616c6c21)
+    CTxOut(error)
+  vMerkleTree: 834e9205a1ee64d7cb8cb689b304a8aedaf5ca34ad85ac704fd617df2418ac5b 
